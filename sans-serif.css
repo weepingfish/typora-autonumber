@@ -193,7 +193,7 @@ h6.md-focus:before {
 }
 
 .md-toc-h1 {
-    display: none;
+	display: none;
 }
 
 
@@ -201,32 +201,38 @@ h6.md-focus:before {
 .sidebar-content {
     counter-reset: h1;
     counter-reset: h2;
-    font-family: "Microsoft YaHei", "Open Sans", "Calibri", sans-serif;
+	font-family: 'Computer Modern', 'Noto Serif CJK SC';
+	font-size: 16px;
 }
  
 .outline-h1 {
     counter-reset: h2;
-    font-family: "Microsoft YaHei", "Open Sans", "Calibri", sans-serif;
+	font-family: 'Computer Modern', 'Noto Serif CJK SC';
+	font-size: 16px;
 }
  
 .outline-h2 {
     counter-reset: h3;
-    font-family: "Microsoft YaHei", "Open Sans", "Calibri", sans-serif;
+	font-family: 'Computer Modern', 'Noto Serif CJK SC';
+	font-size: 16px;
 }
  
 .outline-h3 {
     counter-reset: h4;
-    font-family: "Microsoft YaHei", "Open Sans", "Calibri", sans-serif;
+	font-family: 'Computer Modern', 'Noto Serif CJK SC';
+	font-size: 16px;
 }
  
 .outline-h4 {
     counter-reset: h5;
-    font-family: "Microsoft YaHei", "Open Sans", "Calibri", sans-serif;
+	font-family: 'Computer Modern', 'Noto Serif CJK SC';
+	font-size: 16px;
 }
  
 .outline-h5 {
     counter-reset: h6;
-    font-family: "Microsoft YaHei", "Open Sans", "Calibri", sans-serif;
+	font-family: 'Computer Modern', 'Noto Serif CJK SC';
+	font-size: 16px;
 }
  
 .outline-h1>.outline-item>.outline-label:before {
